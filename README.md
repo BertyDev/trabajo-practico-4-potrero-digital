@@ -1,8 +1,11 @@
 # TRABAJO PRÁCTICO 4 - POTRERO DIGITAL
 
 ● A la receta del trabajo práctico 2 estructurarla con las etiquetas semánticas.
+
 ● header - nav- main- section- aside- footer
+
 ● Se puede utilizar la etiqueta contenedora div, pero dentro de las etiquetas semánticas.
+
 ● Se aconseja realizar una maquetación en papel antes de tocar el código (estaría muy
 bueno guardar y comparar luego esa maquetación con el producto terminado)
 
